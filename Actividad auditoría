@@ -1,17 +1,23 @@
-, Análisis Youtube.
+Análisis Youtube.
+
+
+
 Actividad HTML 1
 
 Parte del contenido de Youtube contiene datos reales de vídeos, URLs... por lo que
 parte del contenido es generado por el servidor SSR.
-
 Luego, JavaScript es ejecutado en el navegador para actualizar dinamicamente la página y así 
 interactuar con el usuario CSR.
-
 En conclusión, youtube si utuliza un modelo híbrido.
 
 El tamaño del HTML inicial: 274kb
 El JavaScript tamaño inicial: 13,975 kB
 El CSS tamaño inicial: 3,667 kB 
+
+
+
+
+
 
 Actividad 2 Destripando el motor
 
@@ -23,6 +29,10 @@ Actividad 3. SandBox en acción
 
 El SandBox en el navegador bloquea el acceso directo de una página web a los archivos locales del ordenador
 Formando parte así, esta actividad del modelo SandBox y evita que una web pueda leer información privada del usuario sin autorización.
+
+
+
+
 
 Actividad 4. Análisis de Bloqueo
 
