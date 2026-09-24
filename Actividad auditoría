@@ -18,3 +18,5 @@ Actividad 2 Destripando el motor
 El motor JavaScript V8 analiza y ejecuta el código JavaScript de la página correspondiente.
 En parse HTML, el navegador procesa HTML y crea DOM, en evaluate Script, V8 ejecuta código.
 Y en compile code, prepara el código mediante JIT para ejecutarlo con eficiencia.
+
+Actividad 3. SandBox en acción
