@@ -20,3 +20,7 @@ En parse HTML, el navegador procesa HTML y crea DOM, en evaluate Script, V8 ejec
 Y en compile code, prepara el código mediante JIT para ejecutarlo con eficiencia.
 
 Actividad 3. SandBox en acción
+
+El SandBox en el navegador bloquea el acceso directo de una página web a los archivos locales del ordenador
+Formando parte así, esta actividad del modelo SandBox y evita que una web pueda leer información privada del usuario sin autorización.
+
