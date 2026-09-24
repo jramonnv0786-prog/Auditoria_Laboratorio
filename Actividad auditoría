@@ -1,10 +1,20 @@
-Actividad HTML 1, Análisis Youtube.
+, Análisis Youtube.
+Actividad HTML 1
 
 Parte del contenido de Youtube contiene datos reales de vídeos, URLs... por lo que
 parte del contenido es generado por el servidor SSR.
+
 Luego, JavaScript es ejecutado en el navegador para actualizar dinamicamente la página y así 
 interactuar con el usuario CSR.
+
 En conclusión, youtube si utuliza un modelo híbrido.
+
 El tamaño del HTML inicial: 274kb
 El JavaScript tamaño inicial: 13,975 kB
 El CSS tamaño inicial: 3,667 kB 
+
+Actividad 2 Destripando el motor
+
+El motor JavaScript V8 analiza y ejecuta el código JavaScript de la página correspondiente.
+En parse HTML, el navegador procesa HTML y crea DOM, en evaluate Script, V8 ejecuta código.
+Y en compile code, prepara el código mediante JIT para ejecutarlo con eficiencia.
