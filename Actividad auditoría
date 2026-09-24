@@ -24,3 +24,11 @@ Actividad 3. SandBox en acción
 El SandBox en el navegador bloquea el acceso directo de una página web a los archivos locales del ordenador
 Formando parte así, esta actividad del modelo SandBox y evita que una web pueda leer información privada del usuario sin autorización.
 
+Actividad 4. Análisis de Bloqueo
+
+En la carga analizada no he encontrado ningún script individual mayor o superior a 1MB, 
+el script de mayor tamaño observado es de 24,4 kb.
+
+En caso de que un Script grande se ejecutara de forma asíncrona y tradicional,
+se bloquearía el hilo principal del navegador mientras se ejecuta. 
+Después, provocaría una interfaz lenta, dificultando la interacción con el usuario.
