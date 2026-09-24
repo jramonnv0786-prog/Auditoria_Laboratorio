@@ -1,3 +1,4 @@
-for (let i = 0; i < 50000000; i++) {
+for (let i = 0; i < 5000; i++) {
+    console.log(i);
 }
-document.getElementById("titulo del proyecto").innerText = "Cambio por script2.js";
+document.getElementById("titulo").innerText = "Cambio por script2.js";
