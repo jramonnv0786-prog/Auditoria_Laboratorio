@@ -1,0 +1,3 @@
+Escenario C
+
+- En el escenario C Async no espera al DOM, y en local funciona solo porque el HTML se lee antes de que lleguen los scripts.
