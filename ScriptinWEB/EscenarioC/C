@@ -1,3 +1,5 @@
 Escenario C
 
-- En el escenario C Async no espera al DOM, y en local funciona solo porque el HTML se lee antes de que lleguen los scripts.
+- Async no bloquea la página, que se pinta pronto.
+- No garantiza el orden de ejecución ni que el DOM esté listo.
+- En local funciona porque el HTML es pequeño, con una conexión lenta un script podría llegar antes que el H1 y fallar. 
